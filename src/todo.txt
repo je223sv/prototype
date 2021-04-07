@@ -1,0 +1,5 @@
+Todo:
+-- navigation (styling and settings) []
+-- add pages []
+-- add elements []
+-- hide/expand settings []
